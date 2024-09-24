@@ -1,4 +1,3 @@
-seataio/seata-server:1.7.1
-mysql:8.0.35
 #支持指定架构
---platform=linux/arm64
+--platform=linux/arm64 mysql:8.0.35
+--platform=linux/arm64 seataio/seata-server:1.7.1
