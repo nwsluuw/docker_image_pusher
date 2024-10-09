@@ -4,4 +4,5 @@
 #--platform=linux/arm64/v8  openjdk:17-jdk-slim
 #--platform=linux/arm64 nginx:alpine
 #--platform=linux/arm64/v8 emqx:5.3.0
---platform=linux/arm64/v8 openjdk:8-jdk-slim
+#--platform=linux/arm64/v8 openjdk:8-jdk-slim
+anapsix/alpine-java:8_server-jre_unlimited
