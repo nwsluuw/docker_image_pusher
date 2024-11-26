@@ -5,4 +5,6 @@
 #--platform=linux/arm64 nginx:alpine
 #--platform=linux/arm64/v8 emqx:5.3.0
 #--platform=linux/arm64/v8 openjdk:8-jdk-slim
-anapsix/alpine-java:8_server-jre_unlimited
+#anapsix/alpine-java:8_server-jre_unlimited
+flink:1.16.3
+minio/minio:RELEASE.2024-11-07T00-52-20Z
