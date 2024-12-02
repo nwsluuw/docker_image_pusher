@@ -8,4 +8,5 @@
 #anapsix/alpine-java:8_server-jre_unlimited
 #flink:1.16.3
 #minio/minio:RELEASE.2024-11-07T00-52-20Z
-flink:1.12.5-scala_2.12-java8
+#flink:1.12.5-scala_2.12-java8
+apache/seatunnel:2.3.8
