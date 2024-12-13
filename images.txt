@@ -10,4 +10,8 @@
 #minio/minio:RELEASE.2024-11-07T00-52-20Z
 #flink:1.12.5-scala_2.12-java8
 #apache/seatunnel:2.3.8
- mcr.microsoft.com/mssql/server:2017-latest
+#mcr.microsoft.com/mssql/server:2017-latest
+liuxuzxx/csi-s3:v1.4.0
+liuxuzxx/livenessprobe:v2.12.0
+liuxuzxx/csi-provisioner:v4.0.0
+liuxuzxx/csi-node-driver-registrar:v2.10.0
